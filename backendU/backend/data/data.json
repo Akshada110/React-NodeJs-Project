@@ -1,0 +1,64 @@
+{
+  "channel": [
+    {
+      "channelname": "web",
+      "lowRisk": 400,
+      "mediumRisk": 600,
+      "highRisk": 1000
+    },
+    {
+      "channelname": "atom",
+      "lowRisk": 360,
+      "mediumRisk": 600,
+      "highRisk": 800
+    },
+    {
+      "channelname": "agent",
+      "lowRisk": 450,
+      "mediumRisk": 800,
+      "highRisk": 1100
+    },
+    {
+      "channelname": "unknown",
+      "lowRisk": 550,
+      "mediumRisk": 700,
+      "highRisk": 950
+    },
+    {
+      "channelname": "frm-node",
+      "lowRisk": 600,
+      "mediumRisk": 700,
+      "highRisk": 1000
+    },
+    {
+      "channelname": "lambda_scedule",
+      "lowRisk": 500,
+      "mediumRisk": 800,
+      "highRisk": 1200
+    },
+    {
+      "channelname": "solutoconnect",
+      "lowRisk": 600,
+      "mediumRisk": 850,
+      "highRisk": 1450
+    },
+    {
+      "channelname": "voice",
+      "lowRisk": 550,
+      "mediumRisk": 700,
+      "highRisk": 950
+    },
+    {
+      "channelname": "backofficeevent",
+      "lowRisk": 700,
+      "mediumRisk": 1000,
+      "highRisk": 1400
+    },
+    {
+      "channelname": "sdx",
+      "lowRisk": 600,
+      "mediumRisk": 800,
+      "highRisk": 1000
+    }
+  ]
+}

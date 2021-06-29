@@ -1,0 +1,9 @@
+GET http://localhost:3001/api/charts
+
+
+# GET http://localhost:3001/api/env
+
+# GET http://localhost:3001/api/servicename
+
+
+

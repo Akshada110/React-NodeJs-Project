@@ -1,0 +1,62 @@
+[
+    {
+      "serviceName": "routingproxy",
+      "lowRisk": 400,
+      "mediumRisk": 600,
+      "highRisk": 1000
+    },
+    {
+      "serviceName": "enttydatasvc",
+      "lowRisk": 360,
+      "mediumRisk": 600,
+      "highRisk": 800
+    },
+    {
+      "serviceName": "verificationmthdsboi",
+      "lowRisk": 450,
+      "mediumRisk": 800,
+      "highRisk": 1100
+    },
+    {
+      "serviceName": "addressstandardization",
+      "lowRisk": 550,
+      "mediumRisk": 700,
+      "highRisk": 950
+    },
+    {
+      "serviceName": "replacmntequipsvc",
+      "lowRisk": 600,
+      "mediumRisk": 700,
+      "highRisk": 1000
+    },
+    {
+      "serviceName": "syncenrollment",
+      "lowRisk": 500,
+      "mediumRisk": 800,
+      "highRisk": 1200
+    },
+    {
+      "serviceName": "rplcmnteqpmnt",
+      "lowRisk": 600,
+      "mediumRisk": 700,
+      "highRisk": 1000
+    },
+    {
+      "serviceName": "fulfillmentoptions",
+      "lowRisk": 500,
+      "mediumRisk": 800,
+      "highRisk": 1200
+    },
+    {
+      "serviceName": "risksync",
+      "lowRisk": 600,
+      "mediumRisk": 700,
+      "highRisk": 1000
+    },
+    {
+      "serviceName": "actlockstatus",
+      "lowRisk": 500,
+      "mediumRisk": 800,
+      "highRisk": 1200
+    }
+  ]
